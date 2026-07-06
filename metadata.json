@@ -1,0 +1,6 @@
+{
+  "name": "XO Riparazione",
+  "description": "Sito web premium per riparazioni smartphone ed elettronica a Milano, ottimizzato per conversioni e Local SEO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
